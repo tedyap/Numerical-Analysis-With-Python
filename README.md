@@ -1,4 +1,4 @@
-# Numerical-Analysis-With-Python
+# Numerical Analysis With Python
 
 I took MATH 407 Numerical Analysis at Illinois Wesleyan University during Fall 2018.
 
